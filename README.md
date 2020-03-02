@@ -1,4 +1,4 @@
-![alt text](https://www.o2system.id/assets/img/covers/cover-o2system-pwa-reactjs.png "O2System PWA ReactJS")
+![alt text](https://repository-images.githubusercontent.com/217445179/740ec500-5c9c-11ea-966b-28d72b50fafc "O2System PWA ReactJS Boilerplate")
 
 
 [![Build Status](https://travis-ci.org/o2system/reactjs.svg?branch=master)](https://travis-ci.org/o2system/reactjs)
